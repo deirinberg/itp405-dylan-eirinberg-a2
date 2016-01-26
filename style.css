@@ -1,0 +1,41 @@
+table, th, td {
+    border: 1px solid #D7D7D7;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+}
+
+th {
+    text-align: left;
+}
+
+body {
+	padding-top: 0.4em;
+	padding-bottom: 0.4em;
+	padding-left: 1.2em;
+	padding-right: 1.2em;
+}
+
+a:link, a:visited {
+	color: #62B0DD;
+}
+
+a:hover {
+	opacity: 0.7;
+}
+
+.btn {
+	margin-top: 1em;
+}
+
+.back-button {
+	margin-top: 0.5em;
+	float: left;
+}
+
+.results-title {
+	text-align: center;
+	margin-bottom: 0.5em;
+}
